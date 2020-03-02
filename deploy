@@ -72,7 +72,7 @@ fi
 git submodule update --init --recursive
 check_for_software zsh
 echo 
-check_for_software vim
+check_for_software nvim
 echo
 check_for_software tmux
 echo
