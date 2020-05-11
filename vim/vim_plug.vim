@@ -1,3 +1,4 @@
+
 " initialization of vim and vim_plug
 let using_neovim = has('nvim')
 let using_vim = !using_neovim
